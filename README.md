@@ -1,13 +1,5 @@
 # HR Analytics Dashboards in Excel: Workforce, Retention & Compensation Insights
 
-![Executive Dashboard](images/executive_dashboard.png)
-
-A comprehensive HR analytics project built in Excel to analyze workforce performance, employee retention, and compensation efficiency using interactive dashboards and business-focused KPIs.
-
----
-
-## Project Overview
-
 This project was developed to transform raw HR data into actionable business insights through interactive Excel dashboards. The solution focuses on workforce analysis, employee retention trends, and compensation efficiency to support data-driven HR decision-making.
 
 The project simulates real-world HR reporting scenarios by creating dashboards tailored for different organizational stakeholders:
@@ -53,7 +45,7 @@ The Executive Dashboard provides a high-level summary of workforce performance a
 - Gender Distribution
 - Workforce Productivity Metrics
 
-![Executive Dashboard](images/executive_dashboard.png)
+![Executive Dashboard](images/kpi_overview.png)
 
 ---
 
